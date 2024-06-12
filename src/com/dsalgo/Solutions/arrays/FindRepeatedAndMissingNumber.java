@@ -1,4 +1,6 @@
-package com.dsalgo.Solutions;
+package com.dsalgo.Solutions.arrays;
+
+import com.dsalgo.Solutions.Solution;
 
 public class FindRepeatedAndMissingNumber extends Solution {
 

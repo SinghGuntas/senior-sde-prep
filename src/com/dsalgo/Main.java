@@ -1,6 +1,6 @@
 package com.dsalgo;
 
-import com.dsalgo.Solutions.FindRepeatedAndMissingNumber;
+import com.dsalgo.Solutions.arrays.FindRepeatedAndMissingNumber;
 import com.dsalgo.Solutions.Solution;
 
 public class Main {
